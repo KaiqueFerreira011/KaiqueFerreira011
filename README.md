@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Kaique! 👋
 
-<!--
-**KaiqueFerreira011/KaiqueFerreira011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 5º módulo de **Análise e Desenvolvimento de Sistemas (ADS)** na UNISA. Atualmente focado em me tornar um desenvolvedor Backend especializado em ecossistema Java.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🎓 Estudando Arquitetura de Sistemas e POO.
+- 💻 Desenvolvendo projetos práticos com **Java** e **Spring Boot**.
+- 🔍 Interessado em **Qualidade de Software** e Experiência do Usuário (UX/UI).
+- ⚡ Autodidata e entusiasta de boas práticas de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java, Python, JavaScript.
+- **Backend:** Spring Boot, Java Collections API.
+- **Frontend:** HTML5, CSS3 (Avançado), Design Responsivo.
+- **Bancos de Dados:** MySQL, MongoDB.
+- **Versionamento:** Git & GitHub.
+
+## 📌 Projetos em Destaque
+- **Gerenciamento de Estoque:** Sistema em Java utilizando Collections (HashMap/TreeSet) para alta performance.
+- **Análise de Interface (APinfo):** Auditoria de usabilidade baseada nas Heurísticas de Nielsen e Planos de Teste (UAT).
+
+---
+📫 **Como me encontrar:**
+ [E-mail](kaiqueferreiradesouza09@gmail.com)
